@@ -37,17 +37,17 @@ I am an Informatics and Computer Science undergraduate student passionate about 
 *Note: Powered by a dedicated, self-hosted Vercel instance with personal access token authentication to prevent rate limiting.*
 
 <p align="center">
-  <img src="https://github-stats-extended-three-nu.vercel.app/api?username=OKevina&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-three-nu.vercel.app/api?username=OKevina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended-three-nu.vercel.app/api/top-langs/?username=OKevina&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-stats-extended-three-nu.vercel.app/api/top-langs/?username=OKevina&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OKevina&hide_border=true&background=0F0C29&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=888890" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OKevina&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OKevina&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OKevina&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
